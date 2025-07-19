@@ -3,9 +3,10 @@
 ---
 
 ### 🔍 About Me
-- 🎓 I'm currently pursuing **Computer Science** at **PES University**
-- 🚀 Exploring **new domains** in **Tech & Security**
+- 💻 Final-year Computer Science student at PES University  
+- 🔍 Interested in Software Engineering, AI/ML, and Distributed Systems
 - 💬 Ask me anything about **coding, data structures, ML or AI**
+- 🚀 Open to internships and full-time opportunities in tech & research 
 - 📫 Reach me at: [leenakallambella2004@gmail.com](mailto:sinchanasinchu2062004@gmail.com)
 
 ---
