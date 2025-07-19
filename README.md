@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm Sinchana 👋</h1>
+<h1 align="center">Hi there, I'm Leena 👋</h1>
 
 ---
 
 ### 🔍 About Me
-- 🎓 I'm currently pursuing **Computer Science**
+- 🎓 I'm currently pursuing **Computer Science** at **PES University**
 - 🚀 Exploring **new domains** in **Tech & Security**
-- 💬 Ask me anything about **coding, cybersecurity, or AI**
-- 📫 Reach me at: [sinchanasinchu2062004@gmail.com](mailto:sinchanasinchu2062004@gmail.com)
+- 💬 Ask me anything about **coding, data structures, ML or AI**
+- 📫 Reach me at: [leenakallambella2004@gmail.com](mailto:sinchanasinchu2062004@gmail.com)
 
 ---
 
