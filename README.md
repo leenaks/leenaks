@@ -7,7 +7,7 @@
 - 🔍 Interested in Software Engineering, AI/ML, and Distributed Systems
 - 💬 Ask me anything about **coding, data structures, ML or AI**
 - 🚀 Open to internships and full-time opportunities in tech & research 
-- 📫 Reach me at: [leenakallambella2004@gmail.com](mailto:sinchanasinchu2062004@gmail.com)
+- 📫 Reach me at: [leenakallambella2004@gmail.com](mailto:leenakallambella2004@gmail.com)
 
 ---
 
